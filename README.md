@@ -1,2 +1,2 @@
 # symfony-framework
-Basic SF with Apache2 conf
+Basic SF4 with Apache2 conf
